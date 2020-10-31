@@ -1,16 +1,15 @@
 ### Hi there 👋
+ 
+# Namaste, I am Binni 🙈 
+- 🔭 I’m currently working on Android
+- 🌱 I’m currently learning Unity,Algos
+- 👯 I’m looking to collaborate on Github
+- 🤔 I’m looking for help with competitive coding 
+- 💬 Ask me about tech related stuffs and dance
+- 📫 How to reach me: binni1108@gmail.com
+- 😄 Pronouns: Her/She
+- ⚡ Fun fact: I stay awake more than I sleep 
+- ✨ I am always willing to learn new things  
 
-<!--
-**binni1108/binni1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![BINNI GOEL's github stats](https://github-readme-stats.vercel.app/api?username=binni1108&show_icons=true&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binni1108&theme=radical&layout=compact) 
