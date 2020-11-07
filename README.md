@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Unity,Algos
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with competitive coding 
-- 💬 Ask me about tech related stuffs and dance
+- 💬 Ask me about tech related stuffs and kpop.
 - 📫 How to reach me: binni1108@gmail.com
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I stay awake more than I sleep 
