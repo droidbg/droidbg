@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-# Namaste, I am Binni 🙈 
+# Namaste, I am Binni G.
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Unity,Algos
 - 👯 I’m looking to collaborate on Github
