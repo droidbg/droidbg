@@ -13,3 +13,9 @@
 
 ![BINNI GOEL's github stats](https://github-readme-stats.vercel.app/api?username=binni1108&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binni1108&theme=radical&layout=compact) 
+
+
+<a href="https://dev.to/binni1108">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="binni's DEV Profile" height="50" width="50">
+</a>
+        
