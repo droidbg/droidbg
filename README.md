@@ -4,7 +4,7 @@
 <br/>
 Happy to see you here. 
 ### Who am I? 🤨
-Ciao! I am Binni Goel Android developer, student and a keen learner ready to help this community grow. 
+Ciao!! I am Binni Goel Android developer, student and a keen learner ready to help this community grow. 
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Unity,Algos
