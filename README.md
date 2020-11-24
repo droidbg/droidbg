@@ -1,6 +1,6 @@
 ### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/)
  
-![](https://komarev.com/ghpvc/?username=binni1108)
+![](https://komarev.com/ghpvc/?username=binni1108&color=ff69b4)
 <br/>
 Happy to see you here. 
 ### Who am I? 🤨
