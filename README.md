@@ -1,8 +1,11 @@
-### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/)
+### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/) | 💻 Android Developer | 🛸 India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+
  
 ![](https://komarev.com/ghpvc/?username=binni1108&color=ff69b4)
 <br/>
 Happy to see you here. 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 ### Who am I? 🤨
 Ciao!! I am Binni Goel Android developer, student and a keen learner ready to help this community grow. 
 
