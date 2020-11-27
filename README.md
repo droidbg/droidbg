@@ -30,7 +30,7 @@ Ciao!! I am Binni Goel   Android Developer 💻, Student and a keen learner read
 <a href="https://medium.com/@binnigoel">
   <img align="left" alt="Binni's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://github.com/binni1108">
+<a href="https://github.com/droidbg">
   <img align="left" alt="Binni's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/binni_goel/">
@@ -41,9 +41,9 @@ Ciao!! I am Binni Goel   Android Developer 💻, Student and a keen learner read
 </a>
 -->
 <br/><br/>
-<a href="https://github.com/binni1108?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=binni1108&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Niharika's github stats"/>
+<a href="https://github.com/droidbg?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=droidbg&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Niharika's github stats"/>
 </a>
-<a href="https://github.com/binni1108?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binni1108&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+<a href="https://github.com/droidbg?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droidbg&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
