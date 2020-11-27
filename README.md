@@ -14,7 +14,7 @@ Ciao!! I am Binni Goel   Android Developer 💻, Student and a keen learner read
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with competitive coding 
 - 💬 Ask me about tech related stuffs and kpop.
-- 📫 How to reach me: binni1108@gmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I stay awake more than I sleep 
 - ✨ I am always willing to learn new things  
