@@ -10,7 +10,7 @@ Happy to see you here.
 Ciao!! I am Binni Goel   Android Developer 💻, Student and a keen learner ready to help this community grow. 
 
 - 🔭 I’m currently working on Android
-- 🌱 I’ve made a project on Unity <a href="https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail">Check here </a>
+- 🌱 I’ve published project on Unity <a href="https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail">Check here </a>
 - 🌱 currently learning Ds, Algos
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with competitive coding 
