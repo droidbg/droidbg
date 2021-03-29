@@ -10,7 +10,8 @@ Happy to see you here.
 Ciao!! I am Binni Goel   Android Developer 💻, Student and a keen learner ready to help this community grow. 
 
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Unity,Algos
+- 🌱 I’ve made a project on Unity <a href="https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail">Check here </a>
+- 🌱 currently learning Ds, Algos
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with competitive coding 
 - 💬 Ask me about tech related stuffs and kpop.
@@ -40,8 +41,9 @@ Ciao!! I am Binni Goel   Android Developer 💻, Student and a keen learner read
 <a href="https://dev.to/binni1108">
   <img align="left" alt="Binni's Dev Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 </a>
-<a href="http://binnigoel.us/">Portfolio</a>
 -->
+<a href="https://droidbg.github.io/">Portfolio</a>
+
 <br/><br/>
 <a href="https://github.com/droidbg?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=droidbg&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Niharika's github stats"/>
