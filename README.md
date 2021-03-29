@@ -42,7 +42,7 @@ Ciao!! I am Binni Goel   Android Developer 💻, Student and a keen learner read
   <img align="left" alt="Binni's Dev Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 </a>
 -->
-<a href="https://droidbg.github.io/">Portfolio</a>
+<a href="https://droidbg.github.io/binni/">Portfolio</a>
 
 <br/><br/>
 <a href="https://github.com/droidbg?tab=repositories">
