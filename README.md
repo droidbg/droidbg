@@ -22,7 +22,7 @@ Ciao!! I am Binni Goel   Android Developer 💻, Student and a keen learner read
 
 ### Social Links
 
-<!--
+
  <a href="https://twitter.com/binnigoel_">
   <img align="left" alt="Binni's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -41,7 +41,7 @@ Ciao!! I am Binni Goel   Android Developer 💻, Student and a keen learner read
 <a href="https://dev.to/binni1108">
   <img align="left" alt="Binni's Dev Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 </a>
--->
+
 <a href="https://droidbg.github.io/binni/">Portfolio</a>
 
 <br/><br/>
