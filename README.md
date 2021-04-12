@@ -7,7 +7,7 @@ Happy to see you here.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ### Who am I? 🤨
-Ciao!! I am Binni Goel   Android Developer 💻, Student and a keen learner ready to help this community grow. 
+Ciao!! I am an Android Developer 💻, Student and a keen learner ready to help this community grow. 
 
 - 🔭 I’m currently working on Android
 - 🌱 I’ve published project on Unity <a href="https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail">Check here </a>
