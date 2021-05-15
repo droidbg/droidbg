@@ -13,7 +13,7 @@ Ciao!! I am an Android Developer 💻, Student and a keen learner ready to help 
 - 🌱 I’ve published project on Unity <a href="https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail">Check here </a>
 - 🌱 currently learning Ds, Algos
 - 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with competitive coding 
+- 🤔 I’m looking for guidance in coding 
 - 💬 Ask me about tech related stuffs and kpop.
 - 📫 How to reach me: Mail me 
 - 😄 Pronouns: Her/She
