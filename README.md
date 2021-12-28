@@ -9,7 +9,7 @@ Ciao!! I am Computer Science Student 💻, and a keen learner. I'm always intere
 ### More Info:
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I stay awake more than I sleep 
-- ✨ I am always willing to learn new things  
+- ✨ Willing to learn new things  
 
 <!-- ### Social Links
  -->
