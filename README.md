@@ -22,7 +22,7 @@ Ciao!! I am Computer Science Student 💻, and a keen learner. I'm always intere
 <a href="https://www.linkedin.com/in/binni-goel/">
   <img align="left" alt="Binni's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@binnigoel">
+<a href="https://droidbg.medium.com/">
   <img align="left" alt="Binni's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://github.com/droidbg">
