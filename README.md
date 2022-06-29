@@ -28,13 +28,15 @@ Ciao!! I am Computer Science Student 💻, and a keen learner. I'm always intere
 <a href="https://github.com/droidbg">
   <img align="left" alt="Binni's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
+<!--
 <a href="https://www.instagram.com/binni_goel/">
   <img align="left" alt="Binni's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://dev.to/binni1108">
   <img align="left" alt="Binni's Dev Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 </a>
-
+ -->
 <!-- <a href="https://droidbg.github.io/binni/">Portfolio</a>    -->
 [LinkedIn](https://www.linkedin.com/in/binni-goel/)
 
