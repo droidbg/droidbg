@@ -57,3 +57,6 @@ Ciao!! I am Computer Science Student 💻, and a keen learner. I'm always intere
 - 🤔 I’m looking for guidance in coding 
 - 💬 Ask me about tech related stuffs and kpop.
 - 📫 How to reach me: Mail me  -->
+
+[![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
+
