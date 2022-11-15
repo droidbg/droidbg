@@ -8,7 +8,7 @@ Ciao!! I am Computer Science Student 💻, and a keen learner. I'm always intere
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx droidbg -y
+npx droidbg
 ```
 
 ### 🔭 Some things I've worked on ...
