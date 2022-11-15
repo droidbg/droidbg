@@ -2,8 +2,14 @@
 ### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/)  🛸 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Ciao!! I am Computer Science Student 💻, and a keen learner. I'm always interested to hear about any cool projects you're working on!
 
+
 [![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx droidbg -y
+```
 
 ### 🔭 Some things I've worked on ...
 - [Bee Trail](https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail), a Game project made on Unity.
