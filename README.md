@@ -7,6 +7,8 @@ Ciao!! I am Computer Science Student 💻, and a keen learner. I'm always intere
 
 ### 🔭 Some things I've worked on ...
 - [Bee Trail](https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail), a Game project made on Unity.
+- [Climator](https://play.google.com/store/apps/details?id=co.binnig.climator), a simple-to-use weather app that provides accurate local weather forecasts, climate for any city.
+- [Quiz Bank](https://pub.dev/packages/quiz_bank), a Flutter Package that provides general true false questions [Github Link](https://github.com/droidbg/quiz_bank).
 
 ### Overall graph <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -37,39 +39,4 @@ Ciao!! I am Computer Science Student 💻, and a keen learner. I'm always intere
 <br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=binni1108&color=ff69b4)
-
-
-
-
-<!-- Commented Code -->
-
-<!--  <a href="https://twitter.com/binnigoel_">
-  <img align="left" alt="Binni's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
-<!-- <a href="https://www.instagram.com/"> 
-<img align="left" alt="Binni's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> -->
-<!-- <a href="https://droidbg.github.io/binni/">Portfolio</a>    -->
-<!-- [LinkedIn](https://www.linkedin.com/in/binni-goel/) -->
-
-
-<!-- 
-
-### Hi there, Happy to see you here.  -->
-<!--  -->
-<!-- ###  A little more about me... Who m I? 🤨 -->
-<!-- ### More Info: -->
-<!-- - 😄 Pronouns: Her/She -->
-<!-- - ⚡ Fun fact: I stay awake more than I sleep  -->
-<!-- - ✨ Willing to learn new things   -->
-<!-- ### Social Links
- -->
-<!-- - 🌱 I’ve published project on Unity <a href="">Check here </a>
-- 🌱 currently learning Ds, Algos
-- 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for guidance in coding 
-- 💬 Ask me about tech related stuffs and kpop.
-- 📫 How to reach me: Mail me  -->
-
-<!-- Commented Code Over -->
 
