@@ -1,6 +1,6 @@
 
 ### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/)  🛸 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Ciao!! I am Software Developer 💻, and a keen learner. I'm always interested to hear about any cool projects you're working on!
+Ciao!! I am a Software Developer 💻, and a keen learner. I'm always interested to hear about any cool projects you're working on!
 
 
 [![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
