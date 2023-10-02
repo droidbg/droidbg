@@ -75,14 +75,14 @@ A FOSS, offline first personal diary application written in Flutter
 </p>
 <p>
  <h4> Contributions </h4>
-<!-- 🔗 <a href="https://www.themoviedb.org/">The Movie DB</a> API
+🔗 <a href="https://github.com/SankethBK/diaryvault/pull/35"> PR merged #35 </a>  - Closed Issue #16 after fix - <a href="https://github.com/SankethBK/diaryvault/issues/16">.
 <br />
-📦 Caching
+<!-- 📦 Caching
 <br />
 📃 Infinite-scroll/Pagination
 <br />
-🧪 Unit & widget tests! (100% coverage! 🚀) -->
-<p></p>
+🧪 Unit & widget tests! (100% coverage! 🚀)
+<p></p> -->
 		</td>
 		<td>
    <a href="https://play.google.com/store/apps/details?id=me.sankethbk.dairyapp">
