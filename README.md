@@ -100,7 +100,7 @@ A FOSS, offline first personal diary application written in Flutter
   </tbody>
 </table>
 
----
+--- 
 
 ![](https://komarev.com/ghpvc/?username=binni1108&color=ff69b4)
 
