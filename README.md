@@ -75,7 +75,10 @@ A FOSS, offline first personal diary application written in Flutter
 </p>
 <p>
  <h4> Contributions </h4>
-🔗 <a href="https://github.com/SankethBK/diaryvault/pull/35"> PR merged #35 </a>  - Closed Issue #16 after fix - <a href="https://github.com/SankethBK/diaryvault/issues/16">.
+🔗 <a href="https://github.com/SankethBK/diaryvault/pull/35"> PR merged : FINGERPRINT LOGIN GLITCH #35 </a>  - Closed Issue <a href="https://github.com/SankethBK/diaryvault/issues/16"> #16 </a> . </br>
+🔗 <a href="https://github.com/SankethBK/diaryvault/pull/44"> PR merged AUTO SAVE NOTES #44 </a>  - Closed Issue <a href="https://github.com/SankethBK/diaryvault/issues/29"> #29 </a> . </br>
+🔗 <a href="https://github.com/SankethBK/diaryvault/pull/47"> PR merged SAVE NOTE NOT WORKING AFTER DELETE #47 </a>  - Closed Issue <a href="https://github.com/SankethBK/diaryvault/issues/38"> #38 </a> . </br>
+🔗 <a href="https://github.com/SankethBK/diaryvault/pull/50"> PR merged NEW TESTCASE FAILING BRANCH #50 </a>  - Closed Issue <a href="https://github.com/SankethBK/diaryvault/issues/46"> #46 </a> . </br>
 <br />
 <!-- 📦 Caching
 <br />
