@@ -103,6 +103,17 @@ A FOSS, offline first personal diary application written in Flutter
   </tbody>
 </table>
 
+## PR Raised / Merged
+| Pull Request                                                       | Status                         	                	              | Issue Link                                               | Repo Stars |
+|--------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------|------------|
+| 1. Fix. Fingerprint Login Glitch                                   | [Merged](https://github.com/SankethBK/diaryvault/issues/35)            | [#16](https://github.com/SankethBK/diaryvault/issues/16) | |
+| 2. Add. Auto save for every "x" seconds                            | [Merged](https://github.com/SankethBK/diaryvault/issues/44)            | [#29](https://github.com/SankethBK/diaryvault/issues/29) | |
+| 3. Fix. SAVE note was not working after delete                     | [Merged](https://github.com/SankethBK/diaryvault/issues/47)            | [#38](https://github.com/SankethBK/diaryvault/issues/38) | |
+| 4. Fix. Testcases failing                                          | [Merged](https://github.com/SankethBK/diaryvault/issues/50)            | [#46](https://github.com/SankethBK/diaryvault/issues/46) | |
+| 5. Refactor. make all mock class to private                        | [Raised]()            | [#24]() | |
+
+
+
 --- 
 
 ![](https://komarev.com/ghpvc/?username=binni1108&color=ff69b4)
