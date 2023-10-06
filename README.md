@@ -82,7 +82,7 @@ Links
   </tr>
 	<tr>
 		<td>
-<img width="600px" src="https://github.com/droidbg/droidbg/assets/41873024/98aade57-0816-42ba-bba1-7a88c1e8dd16" alt="Diaryvault Flutter Project" />
+<!-- <img width="600px" src="https://github.com/droidbg/droidbg/assets/41873024/98aade57-0816-42ba-bba1-7a88c1e8dd16" alt="Diaryvault Flutter Project" /> -->
 <h3> <a href="https://github.com/SankethBK/diaryvault" > AppVault - Personal Diary Application 🔗</a></h3>
 <p>
 A FOSS, offline first personal diary application written in Flutter 
@@ -102,10 +102,10 @@ A FOSS, offline first personal diary application written in Flutter
 <p></p> -->
 		</td>
 		<td>
-   <a href="https://play.google.com/store/apps/details?id=me.sankethbk.dairyapp">
-  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
-</a>
-<br />
+<!--    <a href="https://play.google.com/store/apps/details?id=me.sankethbk.dairyapp"> -->
+<!--   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" /> -->
+<!-- </a> -->
+<!-- <br /> -->
 <h4>Repository Link</h4>
 <div>
   <a href="https://github.com/SankethBK/diaryvault">
