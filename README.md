@@ -56,6 +56,20 @@ npx droidbg
 <br/><br/>
 ## Open Source Contributions to Flutter Projects
 
+
+## PR Raised / Merged
+
+| Pull Request                                                       | Status                         	                	     | Issue Link                                               | Repo Name  | Repo Stars |
+|--------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|------------|------------|
+| Fix. Broken links on .family page website | [Merged](https://github.com/rrousselGit/riverpod/pull/2956) | [#2951](https://github.com/rrousselGit/riverpod/issues/2951) | riverpod | 𖤐 5.1k |
+| Refactor. make all mock class to private  | [Raised](https://github.com/VeryGoodOpenSource/very_good_cli/pull/838) | [#827](https://github.com/VeryGoodOpenSource/very_good_cli/issues/827) | very_good_cli | 𖤐 2k |
+| Fix. Fingerprint Login Glitch                          | [Merged](https://github.com/SankethBK/diaryvault/issues/35)            | [#16](https://github.com/SankethBK/diaryvault/issues/16) | diaryvault | 𖤐 17       |
+| Fix. SAVE note was not working after delete            | [Merged](https://github.com/SankethBK/diaryvault/issues/47)            | [#38](https://github.com/SankethBK/diaryvault/issues/38) | diaryvault | 𖤐 17       |
+| Fix. Testcases failing                                 | [Merged](https://github.com/SankethBK/diaryvault/issues/50)            | [#46](https://github.com/SankethBK/diaryvault/issues/46) | diaryvault | 𖤐 17       |
+| Add. Auto save for every "x" seconds                   | [Merged](https://github.com/SankethBK/diaryvault/issues/44)            | [#29](https://github.com/SankethBK/diaryvault/issues/29) | diaryvault | 𖤐 17       |
+
+
+
 <table>
   <tbody>
   <tr>
@@ -102,16 +116,6 @@ A FOSS, offline first personal diary application written in Flutter
 	</tr>
   </tbody>
 </table>
-
-## PR Raised / Merged
-| Pull Request                                                       | Status                         	                	     | Issue Link                                               | Repo Name  | Repo Stars |
-|--------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|------------|------------|
-| 1. Fix. Fingerprint Login Glitch                          | [Merged](https://github.com/SankethBK/diaryvault/issues/35)            | [#16](https://github.com/SankethBK/diaryvault/issues/16) | diaryvault | 𖤐 17       |
-| 2. Fix. SAVE note was not working after delete            | [Merged](https://github.com/SankethBK/diaryvault/issues/47)            | [#38](https://github.com/SankethBK/diaryvault/issues/38) | diaryvault | 𖤐 17       |
-| 3. Fix. Testcases failing                                 | [Merged](https://github.com/SankethBK/diaryvault/issues/50)            | [#46](https://github.com/SankethBK/diaryvault/issues/46) | diaryvault | 𖤐 17       |
-| 4. Add. Auto save for every "x" seconds                   | [Merged](https://github.com/SankethBK/diaryvault/issues/44)            | [#29](https://github.com/SankethBK/diaryvault/issues/29) | diaryvault | 𖤐 17       |
-| 5. Refactor. make all mock class to private  | [Raised](https://github.com/VeryGoodOpenSource/very_good_cli/pull/838) | [#827](https://github.com/VeryGoodOpenSource/very_good_cli/issues/827) | very_good_cli | 𖤐 2k |
-
 
 
 --- 
