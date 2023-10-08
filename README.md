@@ -63,57 +63,71 @@ npx droidbg
 |--------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|------------|------------|
 | Fix. Broken links on .family page website | [Merged](https://github.com/rrousselGit/riverpod/pull/2956) | [#2951](https://github.com/rrousselGit/riverpod/issues/2951) | riverpod | 𖤐 5.1k |
 | Refactor. make all mock class to private  | [Merged](https://github.com/VeryGoodOpenSource/very_good_cli/pull/838) | [#827](https://github.com/VeryGoodOpenSource/very_good_cli/issues/827) | very_good_cli | 𖤐 2k |
-| Fix. Fingerprint Login Glitch                          | [Merged](https://github.com/SankethBK/diaryvault/issues/35)            | [#16](https://github.com/SankethBK/diaryvault/issues/16) | diaryvault | 𖤐 17       |
-| Fix. SAVE note was not working after delete            | [Merged](https://github.com/SankethBK/diaryvault/issues/47)            | [#38](https://github.com/SankethBK/diaryvault/issues/38) | diaryvault | 𖤐 17       |
-| Fix. Testcases failing                                 | [Merged](https://github.com/SankethBK/diaryvault/issues/50)            | [#46](https://github.com/SankethBK/diaryvault/issues/46) | diaryvault | 𖤐 17       |
-| Add. Auto save for every "x" seconds                   | [Merged](https://github.com/SankethBK/diaryvault/issues/44)            | [#29](https://github.com/SankethBK/diaryvault/issues/29) | diaryvault | 𖤐 17       |
+| Fix. Fingerprint Login Glitch                          | [Merged](https://github.com/SankethBK/diaryvault/issues/35)            | [#16](https://github.com/SankethBK/diaryvault/issues/16) | diaryvault | 𖤐 23       |
+| Fix. SAVE note was not working after delete            | [Merged](https://github.com/SankethBK/diaryvault/issues/47)            | [#38](https://github.com/SankethBK/diaryvault/issues/38) | diaryvault | 𖤐 23       |
+| Fix. Testcases failing                                 | [Merged](https://github.com/SankethBK/diaryvault/issues/50)            | [#46](https://github.com/SankethBK/diaryvault/issues/46) | diaryvault | 𖤐 23       |
+| Add. Auto save for every "x" seconds                   | [Merged](https://github.com/SankethBK/diaryvault/issues/44)            | [#29](https://github.com/SankethBK/diaryvault/issues/29) | diaryvault | 𖤐 23       |
 
 
 
 <table>
   <tbody>
   <tr>
-  <th>
-  Project
-  </th>
-  <th width="35%">
-Links
-</th>
+ 	 <th>
+	 	 Project
+	  </th>
+	  <th width="35%">
+		Repository Links
+	  </th>
   </tr>
-	<tr>
-		<td>
-<!-- <img width="600px" src="https://github.com/droidbg/droidbg/assets/41873024/98aade57-0816-42ba-bba1-7a88c1e8dd16" alt="Diaryvault Flutter Project" /> -->
-<h3> <a href="https://github.com/SankethBK/diaryvault" > AppVault - Personal Diary Application 🔗</a></h3>
-<p>
-A FOSS, offline first personal diary application written in Flutter 
-</p>
-<p>
-<!--  <h4> Contributions </h4>
-🔗 <a href="https://github.com/SankethBK/diaryvault/pull/35"> PR merged : FINGERPRINT LOGIN GLITCH #35 </a>  - Closed Issue <a href="https://github.com/SankethBK/diaryvault/issues/16"> #16 </a> . </br>
-🔗 <a href="https://github.com/SankethBK/diaryvault/pull/44"> PR merged AUTO SAVE NOTES #44 </a>  - Closed Issue <a href="https://github.com/SankethBK/diaryvault/issues/29"> #29 </a> . </br>
-🔗 <a href="https://github.com/SankethBK/diaryvault/pull/47"> PR merged SAVE NOTE NOT WORKING AFTER DELETE #47 </a>  - Closed Issue <a href="https://github.com/SankethBK/diaryvault/issues/38"> #38 </a> . </br>
-🔗 <a href="https://github.com/SankethBK/diaryvault/pull/50"> PR merged NEW TESTCASE FAILING BRANCH #50 </a>  - Closed Issue <a href="https://github.com/SankethBK/diaryvault/issues/46"> #46 </a> . </br>
-<br /> -->
-<!-- 📦 Caching
-<br />
-📃 Infinite-scroll/Pagination
-<br />
-🧪 Unit & widget tests! (100% coverage! 🚀)
-<p></p> -->
-		</td>
-		<td>
-<!--    <a href="https://play.google.com/store/apps/details?id=me.sankethbk.dairyapp"> -->
-<!--   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" /> -->
-<!-- </a> -->
-<!-- <br /> -->
-<h4>Repository Link</h4>
-<div>
-  <a href="https://github.com/SankethBK/diaryvault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SankethBK&repo=diaryvault&theme=dracula" alt="Diaryvault Project Repo" />
-  </a>
-</div>
-		</td>
-	</tr>
+<!-- 	  Riverpod -->
+  <tr> 
+	<td>
+		<h3> <a href="https://github.com/rrousselGit/riverpod" > Riverpod 🔗</a></h3>
+		<p>
+			A state-management library that catches programming errors at compile time rather than at runtime, removes nesting for listening/combining objects, ensures that the code is testable
+		</p>
+	</td>
+	<td>
+		<div>
+		  <a href="https://github.com/rrousselGit/riverpod">
+		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rrousselGit&repo=riverpod&theme=dracula" alt="Riverpod Project Repo" />
+		  </a>
+		</div>
+	</td>
+   </tr>
+ <tr>
+<!-- 	 CLI -->
+	 	<td>
+		<h3> <a href="https://github.com/VeryGoodOpenSource/very_good_cli" > VERY GOOD CLI 🔗</a></h3>
+		<p>
+			 Very Good Command-Line Interface for Dart created by Very Good Ventures 🦄
+		</p>
+	</td>
+	<td>
+		<div>
+		  <a href="https://github.com/VeryGoodOpenSource/very_good_cli">
+		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VeryGoodOpenSource&repo=very_good_cli" alt="very_good_cli Project Repo" />
+		  </a>
+		</div>
+	</td>
+   </tr>
+<!-- 	  DiaryVault -->
+ <tr>
+	<td>
+		<h3> <a href="https://github.com/SankethBK/diaryvault" > AppVault - Personal Diary Application 🔗</a></h3>
+		<p>
+			A FOSS, offline first personal diary application written in Flutter 
+		</p>
+	</td>
+	<td>
+		<div>
+		  <a href="https://github.com/SankethBK/diaryvault">
+		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SankethBK&repo=diaryvault&theme=dracula" alt="Diaryvault Project Repo" />
+		  </a>
+		</div>
+	</td>
+   </tr>
   </tbody>
 </table>
 
