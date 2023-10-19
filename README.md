@@ -84,6 +84,23 @@ npx droidbg
 		Repository Links
 	  </th>
   </tr>
+<!-- 	  Flutter -->
+  <tr> 
+	<td>
+		<h3> <a href="https://github.com/flutter/flutter" > Flutter 🔗</a></h3>
+		<p>
+			Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase.
+		</p>
+	</td>
+	<td>
+		<div>
+		  <a href="https://github.com/flutter/flutter">
+		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter&theme=dracula" alt="Flutter Project Repo" />
+		  </a>
+		</div>
+	</td>
+   </tr>
+ <tr>
 <!-- 	  Riverpod -->
   <tr> 
 	<td>
