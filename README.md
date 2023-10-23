@@ -68,13 +68,13 @@ npx droidbg
 | Pull Request                                                       | Status                         	                	     | Issue Link                                               | Repo Name  | Repo Stars |
 |--------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|------------|------------|
 | Fix. Broken links on .family page website | [Merged](https://github.com/rrousselGit/riverpod/pull/2956) | [#2951](https://github.com/rrousselGit/riverpod/issues/2951) | riverpod | 𖤐 5.1k |
-| Fix. doc reference finishPurchase to completePurchase. | [Raised](https://github.com/flutter/packages/pull/5081) | [#135759](https://github.com/flutter/flutter/issues/135759) | flutter / flutter packages | 𖤐 3.5k |
+| Fix. doc reference finishPurchase to completePurchase. | [Merged](https://github.com/flutter/packages/pull/5081) | [#135759](https://github.com/flutter/flutter/issues/135759) | flutter / flutter packages | 𖤐 3.5k |
 | Add. hook for ExpansionTileController  | [Merged](https://github.com/rrousselGit/flutter_hooks/pull/386) | [#375](https://github.com/rrousselGit/flutter_hooks/issues/375) | flutter_hooks | 𖤐 2.9k |
 | Refactor. make all mock class to private  | [Merged](https://github.com/VeryGoodOpenSource/very_good_cli/pull/838) | [#827](https://github.com/VeryGoodOpenSource/very_good_cli/issues/827) | very_good_cli | 𖤐 2k |
-| Fix. Fingerprint Login Glitch                          | [Merged](https://github.com/SankethBK/diaryvault/issues/35)            | [#16](https://github.com/SankethBK/diaryvault/issues/16) | diaryvault | 𖤐 31       |
-| Fix. SAVE note was not working after delete            | [Merged](https://github.com/SankethBK/diaryvault/issues/47)            | [#38](https://github.com/SankethBK/diaryvault/issues/38) | diaryvault | 𖤐 31       |
-| Fix. Testcases failing                                 | [Merged](https://github.com/SankethBK/diaryvault/issues/50)            | [#46](https://github.com/SankethBK/diaryvault/issues/46) | diaryvault | 𖤐 31       |
-| Add. Auto save for every "x" seconds                   | [Merged](https://github.com/SankethBK/diaryvault/issues/44)            | [#29](https://github.com/SankethBK/diaryvault/issues/29) | diaryvault | 𖤐 31       |
+| Fix. Fingerprint Login Glitch                          | [Merged](https://github.com/SankethBK/diaryvault/issues/35)            | [#16](https://github.com/SankethBK/diaryvault/issues/16) | diaryvault | 𖤐 33       |
+| Fix. SAVE note was not working after delete            | [Merged](https://github.com/SankethBK/diaryvault/issues/47)            | [#38](https://github.com/SankethBK/diaryvault/issues/38) | diaryvault | 𖤐 33       |
+| Fix. Testcases failing                                 | [Merged](https://github.com/SankethBK/diaryvault/issues/50)            | [#46](https://github.com/SankethBK/diaryvault/issues/46) | diaryvault | 𖤐 33       |
+| Add. Auto save for every "x" seconds                   | [Merged](https://github.com/SankethBK/diaryvault/issues/44)            | [#29](https://github.com/SankethBK/diaryvault/issues/29) | diaryvault | 𖤐 33       |
 
 
 
