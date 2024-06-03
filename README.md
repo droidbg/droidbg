@@ -27,6 +27,10 @@ npx droidbg
 ### 🔭 Some things I've worked on ...
 - [Open Source Contributions](#open-source-contributions-to-flutter-projects) 👇🏼
 <!--
+- Winner Flutter Global Gamers Challenge in Google Wallet Best Integration with Japenese Localization - Ocean Cleanup
+- Winner Hacksquad 2023 
+- Blogs @Medium 
+
 - [Bee Trail](https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail), a Game project made on Unity, made using C#.
 
 - [Climator](https://play.google.com/store/apps/details?id=co.binnig.climator), a simple-to-use weather app that provides accurate local weather forecasts, climate for any city, using flutter.
