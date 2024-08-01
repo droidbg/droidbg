@@ -26,8 +26,12 @@ npx droidbg
     
 ### 🔭 Some things I've worked on ...
 - [Open Source Contributions](#open-source-contributions-to-flutter-projects) 👇🏼
+
+- **Winner**, [Flutter Global Gamers Challenge - 3rd Rank](https://devpost.com/software/ocean-cleanup-y5ngb3)
+	- Flutter & Flame based Ocean Cleanup App. Focused on environmental awarness.
+   	- integrated Google Wallet Integration and Japenese Localization
+   	- Multiplatform Support
 <!--
-- Winner Flutter Global Gamers Challenge in Google Wallet Best Integration with Japenese Localization - Ocean Cleanup
 - Winner Hacksquad 2023 
 - Blogs @Medium 
 
