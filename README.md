@@ -97,14 +97,14 @@ npx droidbg
 <!-- 	  Flutter -->
   <tr> 
 	<td>
-		<h3> <a href="https://github.com/flutter/flutter" > Flutter 🔗</a></h3>
+		<h3> <a href="https://github.com/flutter/flutter/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > Flutter 🔗</a></h3>
 		<p>
 			Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase.
 		</p>
 	</td>
 	<td>
 		<div>
-		  <a href="https://github.com/flutter/flutter">
+		  <a href="https://github.com/flutter/flutter/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg">
 		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter&theme=dracula" alt="Flutter Project Repo" />
 		  </a>
 		</div>
@@ -114,14 +114,14 @@ npx droidbg
 <!-- 	  Riverpod -->
   <tr> 
 	<td>
-		<h3> <a href="https://github.com/rrousselGit/riverpod" > Riverpod 🔗</a></h3>
+		<h3> <a href="https://github.com/rrousselGit/riverpod/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > Riverpod 🔗</a></h3>
 		<p>
 			A state-management library that catches programming errors at compile time rather than at runtime, removes nesting for listening/combining objects, ensures that the code is testable
 		</p>
 	</td>
 	<td>
 		<div>
-		  <a href="https://github.com/rrousselGit/riverpod">
+		 <a href="https://github.com/rrousselGit/riverpod/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > 
 		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rrousselGit&repo=riverpod&theme=dracula" alt="Riverpod Project Repo" />
 		  </a>
 		</div>
@@ -130,14 +130,14 @@ npx droidbg
  <tr>
 <!-- 	 CLI -->
 	 	<td>
-		<h3> <a href="https://github.com/VeryGoodOpenSource/very_good_cli" > VERY GOOD CLI 🔗</a></h3>
+		<h3> <a href="https://github.com/VeryGoodOpenSource/very_good_cli/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > VERY GOOD CLI 🔗</a></h3>
 		<p>
 			 Very Good Command-Line Interface for Dart created by Very Good Ventures 🦄
 		</p>
 	</td>
 	<td>
 		<div>
-		  <a href="https://github.com/VeryGoodOpenSource/very_good_cli">
+		 <a href="https://github.com/VeryGoodOpenSource/very_good_cli/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" >
 		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VeryGoodOpenSource&repo=very_good_cli" alt="very_good_cli Project Repo" />
 		  </a>
 		</div>
@@ -146,14 +146,14 @@ npx droidbg
 <!-- 	  DiaryVault -->
  <tr>
 	<td>
-		<h3> <a href="https://github.com/SankethBK/diaryvault" > AppVault - Personal Diary Application 🔗</a></h3>
+		<h3> <a href="https://github.com/SankethBK/diaryvault/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > AppVault - Personal Diary Application 🔗</a></h3>
 		<p>
 			A FOSS, offline first personal diary application written in Flutter 
 		</p>
 	</td>
 	<td>
 		<div>
-		  <a href="https://github.com/SankethBK/diaryvault">
+		 <a href="https://github.com/SankethBK/diaryvault/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" >
 		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SankethBK&repo=diaryvault&theme=dracula" alt="Diaryvault Project Repo" />
 		  </a>
 		</div>
