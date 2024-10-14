@@ -41,16 +41,9 @@ npx droidbg
 - [Quiz Bank](https://pub.dev/packages/quiz_bank), a Flutter Package that provides general true false questions [Github Link](https://github.com/droidbg/quiz_bank).
 -->
 ### Overall graph <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-<img src="https://myreadme.vercel.app/api/embed/droidbg?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=droidbg&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Droidbg's github stats"/>
 
-  <a href="https://github.com/droidbg?tab=repositories">
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=droidbg&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Droidbg's github stats"/> -->
-</a>
-<!-- <a href="https://github.com/droidbg?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droidbg&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
-</a> 
--->
 <br/>
 
 
