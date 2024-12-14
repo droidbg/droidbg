@@ -23,6 +23,9 @@ Ciao!! I am a Software Developer 💻, and a keen learner. I'm always interested
 npx droidbg
 ```
  
+
+
+
     
 ### 🔭 Some things I've worked on ...
 - [Open Source Contributions](#open-source-contributions-to-flutter-projects) 👇🏼
@@ -41,8 +44,11 @@ npx droidbg
 - [Quiz Bank](https://pub.dev/packages/quiz_bank), a Flutter Package that provides general true false questions [Github Link](https://github.com/droidbg/quiz_bank).
 -->
 ### Overall graph <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
+<!--
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=droidbg&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Droidbg's github stats"/>
+ -->
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=droidbg&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
