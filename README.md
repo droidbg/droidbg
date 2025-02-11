@@ -7,11 +7,18 @@
   <img alt="Binni's Welcome Message" src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Binni">
 </p>
 
+
+
+    
  
 ### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/)  🛸 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Ciao!! I am a Software Developer 💻, and a keen learner. I'm always interested to hear about any cool projects you're working on!
 
+
+
 [![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -22,6 +29,8 @@ npx droidbg
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🔭 Some things I've worked on ...
+<img align="right" width="200" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFoZmltdDMzZjNqa3JsZmhwZm55NWQzazJoZTZnaGs0ZHdtYm5uNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif of the various My Octocats I've created"></a>
+ 
 
 1. [Open Source Contributions](#%EF%B8%8F-open-source-contributions)
 2. [Featured Project](#-featured-projects-%EF%B8%8F)
@@ -260,9 +269,9 @@ npx droidbg
   </tr>
 </table>
 
-<br/>
-<br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+ 
 <h3 align="left"> 📮 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/binni-goel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
@@ -273,6 +282,8 @@ npx droidbg
 
 </p>
 <br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=binni1108&color=ff69b4" alt="Binni's profile views" /> 
 </p>
