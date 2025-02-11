@@ -1,19 +1,15 @@
 <!-- lets readme -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%"/>
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%"/>
 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <p align="center">
-		<img alt="Roaa's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Binni"> 
-
-<!-- <img src="https://komarev.com/ghpvc/?username=binni1108&color=ff69b4" alt="Binni's profile views" /> -->
+		<img alt="Binni's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Binni">
 
 </p>
  
 ### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/)  🛸 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Ciao!! I am a Software Developer 💻, and a keen learner. I'm always interested to hear about any cool projects you're working on!
-
 
 [![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
 
@@ -22,7 +18,7 @@ Ciao!! I am a Software Developer 💻, and a keen learner. I'm always interested
 ```bash
 npx droidbg
 ```
- 
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -86,59 +82,45 @@ npx droidbg
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-    
 ### 🔭 Some things I've worked on ...
+
 - [Open Source Contributions](#open-source-contributions-to-flutter-projects) 👇🏼
 
 - **Winner**, [Global Gamers Challenge - 3rd Rank](https://devpost.com/software/ocean-cleanup-y5ngb3)
-	- Flutter & Flame based Ocean Cleanup App. Focused on environmental awarness.
-   	- integrated Google Wallet Integration and Japenese Localization
-   	- Multiplatform Support
 
-- Winner Hacksquad 2023 
-- Blogs @Medium 
+  - Flutter & Flame based Ocean Cleanup App. Focused on environmental awarness.
+    - integrated Google Wallet Integration and Japenese Localization
+    - Multiplatform Support
+
+- **Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
+- Blogs [@Medium](https://droidbg.medium.com/)
 <!--
 - [Bee Trail](https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail), a Game project made on Unity, made using C#.
 
 - [Climator](https://play.google.com/store/apps/details?id=co.binnig.climator), a simple-to-use weather app that provides accurate local weather forecasts, climate for any city, using flutter.
 - [Quiz Bank](https://pub.dev/packages/quiz_bank), a Flutter Package that provides general true false questions [Github Link](https://github.com/droidbg/quiz_bank).
--->
-### Graphical Analysis <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-<!--
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=droidbg&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Droidbg's github stats"/>
- -->
+  -->
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=droidbg&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### Graphical Analysis <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=droidbg&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
-
-<h3 align="left"> 📫 Connect with me:</h3>
+<h3 align="left"> 📮 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jayabharathi-s-7b66a3182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayabharathi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@jayabhajayas2363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jayabharathi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/binni-goel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://droidbg.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Linkedin" height="40" width="40" /></a>  
+<a href="https://github.com/droidbg">
+  <img align="center" alt="Binni's Github"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"  height="40" width="40" />
+</a>
+
 </p>
 <br>
 
-
- ###  Find me here: ...
-<a href="https://www.linkedin.com/in/binni-goel/">
-  <img align="left" alt="Binni's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://droidbg.medium.com/">
-  <img align="left" alt="Binni's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://github.com/droidbg">
-  <img align="left" alt="Binni's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://dev.to/binni1108">
-  <img align="left" alt="Binni's Dev Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
-</a>
-
 <br/><br/>
-## Open Source Contributions
 
+## Open Source Contributions
 
 <table>
   <tbody>
@@ -169,7 +151,6 @@ npx droidbg
    </tr>
  <tr>
 
-
   <!-- 	  Flutter Website -->
   <tr> 
 	<td>
@@ -188,7 +169,6 @@ npx droidbg
    </tr>
  <tr>
 
-  
   <!-- 	  Leak Tracker -->
   <tr> 
 	<td>
@@ -258,25 +238,21 @@ npx droidbg
   </tbody>
 </table>
 
-
 ## PR Raised / Merged
 
-| Pull Request                                                       | Status                         	                	     | Issue Link                                               | Repo Name  | Repo Stars |
-|--------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|------------|------------|
-| Fix. Broken links on .family page website | [Merged](https://github.com/rrousselGit/riverpod/pull/2956) | [#2951](https://github.com/rrousselGit/riverpod/issues/2951) | riverpod | 𖤐 5.1k |
-| Fix. doc reference finishPurchase to completePurchase. | [Merged](https://github.com/flutter/packages/pull/5081) | [#135759](https://github.com/flutter/flutter/issues/135759) | flutter / flutter packages | 𖤐 3.5k |
-| Add. hook for ExpansionTileController  | [Merged](https://github.com/rrousselGit/flutter_hooks/pull/386) | [#375](https://github.com/rrousselGit/flutter_hooks/issues/375) | flutter_hooks | 𖤐 2.9k |
-| Refactor. make all mock class to private  | [Merged](https://github.com/VeryGoodOpenSource/very_good_cli/pull/838) | [#827](https://github.com/VeryGoodOpenSource/very_good_cli/issues/827) | very_good_cli | 𖤐 2k |
-| Fix. Fingerprint Login Glitch                          | [Merged](https://github.com/SankethBK/diaryvault/issues/35)            | [#16](https://github.com/SankethBK/diaryvault/issues/16) | diaryvault | 𖤐 45       |
-| Fix. SAVE note was not working after delete            | [Merged](https://github.com/SankethBK/diaryvault/issues/47)            | [#38](https://github.com/SankethBK/diaryvault/issues/38) | diaryvault | 𖤐 45       |
-| Fix. Testcases failing                                 | [Merged](https://github.com/SankethBK/diaryvault/issues/50)            | [#46](https://github.com/SankethBK/diaryvault/issues/46) | diaryvault | 𖤐 45       |
-| Add. Auto save for every "x" seconds                   | [Merged](https://github.com/SankethBK/diaryvault/issues/44)            | [#29](https://github.com/SankethBK/diaryvault/issues/29) | diaryvault | 𖤐 45       |
+| Pull Request                                           | Status                                                                 | Issue Link                                                             | Repo Name                  | Repo Stars |
+| ------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------- | ---------- |
+| Fix. Broken links on .family page website              | [Merged](https://github.com/rrousselGit/riverpod/pull/2956)            | [#2951](https://github.com/rrousselGit/riverpod/issues/2951)           | riverpod                   | 𖤐 5.1k     |
+| Fix. doc reference finishPurchase to completePurchase. | [Merged](https://github.com/flutter/packages/pull/5081)                | [#135759](https://github.com/flutter/flutter/issues/135759)            | flutter / flutter packages | 𖤐 3.5k     |
+| Add. hook for ExpansionTileController                  | [Merged](https://github.com/rrousselGit/flutter_hooks/pull/386)        | [#375](https://github.com/rrousselGit/flutter_hooks/issues/375)        | flutter_hooks              | 𖤐 2.9k     |
+| Refactor. make all mock class to private               | [Merged](https://github.com/VeryGoodOpenSource/very_good_cli/pull/838) | [#827](https://github.com/VeryGoodOpenSource/very_good_cli/issues/827) | very_good_cli              | 𖤐 2k       |
+| Fix. Fingerprint Login Glitch                          | [Merged](https://github.com/SankethBK/diaryvault/issues/35)            | [#16](https://github.com/SankethBK/diaryvault/issues/16)               | diaryvault                 | 𖤐 45       |
+| Fix. SAVE note was not working after delete            | [Merged](https://github.com/SankethBK/diaryvault/issues/47)            | [#38](https://github.com/SankethBK/diaryvault/issues/38)               | diaryvault                 | 𖤐 45       |
+| Fix. Testcases failing                                 | [Merged](https://github.com/SankethBK/diaryvault/issues/50)            | [#46](https://github.com/SankethBK/diaryvault/issues/46)               | diaryvault                 | 𖤐 45       |
+| Add. Auto save for every "x" seconds                   | [Merged](https://github.com/SankethBK/diaryvault/issues/44)            | [#29](https://github.com/SankethBK/diaryvault/issues/29)               | diaryvault                 | 𖤐 45       |
 
+---
 
-
---- 
-
-![](https://komarev.com/ghpvc/?username=binni1108&color=ff69b4)
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=jayabha-jayas&color=ff69b4" alt="jayabharathi" /> 
+ <img src="https://komarev.com/ghpvc/?username=binni1108&color=ff69b4" alt="Binni's profile views" /> 
 </p>
