@@ -21,6 +21,28 @@ npx droidbg
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+## 🔭 Some things I've worked on ...
+
+1. [Open Source Contributions](#%EF%B8%8F-open-source-contributions)
+2. [Featured Project](#-featured-projects-%EF%B8%8F)
+
+3. **Winner**, [Global Gamers Challenge - 3rd Rank](https://devpost.com/software/ocean-cleanup-y5ngb3)
+
+   - Flutter & Flame based Ocean Cleanup App. Focused on environmental awarness.
+   - Integrated Google Wallet Integration and Japenese Localization
+   - Multiplatform Support
+
+4. **Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
+5. Blogs [@Medium](https://droidbg.medium.com/)
+<!--
+
+- [Bee Trail](https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail), a Game project made on Unity, made using C#.
+
+- [Climator](https://play.google.com/store/apps/details?id=co.binnig.climator), a simple-to-use weather app that provides accurate local weather forecasts, climate for any city, using flutter.
+- [Quiz Bank](https://pub.dev/packages/quiz_bank), a Flutter Package that provides general true false questions [Github Link](https://github.com/droidbg/quiz_bank).
+-->
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
@@ -81,30 +103,6 @@ npx droidbg
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 🔭 Some things I've worked on ...
-
-
-1. [Open Source Contributions](#%EF%B8%8F-open-source-contributions)
-2. [Featured Project](#-featured-projects-%EF%B8%8F)
-
-3. **Winner**, [Global Gamers Challenge - 3rd Rank](https://devpost.com/software/ocean-cleanup-y5ngb3)
-
-   - Flutter & Flame based Ocean Cleanup App. Focused on environmental awarness.
-   - Integrated Google Wallet Integration and Japenese Localization
-   - Multiplatform Support
-
-4. **Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
-5. Blogs [@Medium](https://droidbg.medium.com/)
-<!--
-
-- [Bee Trail](https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail), a Game project made on Unity, made using C#.
-
-- [Climator](https://play.google.com/store/apps/details?id=co.binnig.climator), a simple-to-use weather app that provides accurate local weather forecasts, climate for any city, using flutter.
-- [Quiz Bank](https://pub.dev/packages/quiz_bank), a Flutter Package that provides general true false questions [Github Link](https://github.com/droidbg/quiz_bank).
-  -->
-  <br/>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Graphical Analysis <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -230,7 +228,7 @@ npx droidbg
   </tbody>
 </table>
 
-### PR Raised / Merged
+#### PR Raised / Merged
 
 | Pull Request                                           | Status                                                                 | Issue Link                                                             | Repo Name                  | Repo Stars |
 | ------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------- | ---------- |
@@ -264,7 +262,6 @@ npx droidbg
     </td>
   </tr>
 </table>
-
 
 <br/>
 <br/>
