@@ -82,45 +82,37 @@ npx droidbg
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🔭 Some things I've worked on ...
+## 🔭 Some things I've worked on ...
 
-- [Open Source Contributions](#open-source-contributions-to-flutter-projects) 👇🏼
+1. [Open Source Contributions](#open-source-contributions)
+2. [Fullstack Project](#-fullstack-projects)
 
-- **Winner**, [Global Gamers Challenge - 3rd Rank](https://devpost.com/software/ocean-cleanup-y5ngb3)
+3. **Winner**, [Global Gamers Challenge - 3rd Rank](https://devpost.com/software/ocean-cleanup-y5ngb3)
 
-  - Flutter & Flame based Ocean Cleanup App. Focused on environmental awarness.
-    - integrated Google Wallet Integration and Japenese Localization
-    - Multiplatform Support
+   - Flutter & Flame based Ocean Cleanup App. Focused on environmental awarness.
+   - Integrated Google Wallet Integration and Japenese Localization
+   - Multiplatform Support
 
-- **Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
-- Blogs [@Medium](https://droidbg.medium.com/)
+4. **Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
+5. Blogs [@Medium](https://droidbg.medium.com/)
 <!--
+
 - [Bee Trail](https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail), a Game project made on Unity, made using C#.
 
 - [Climator](https://play.google.com/store/apps/details?id=co.binnig.climator), a simple-to-use weather app that provides accurate local weather forecasts, climate for any city, using flutter.
 - [Quiz Bank](https://pub.dev/packages/quiz_bank), a Flutter Package that provides general true false questions [Github Link](https://github.com/droidbg/quiz_bank).
   -->
+  <br/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Graphical Analysis <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=droidbg&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<br/>
-
-<h3 align="left"> 📮 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/binni-goel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://droidbg.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Linkedin" height="40" width="40" /></a>  
-<a href="https://github.com/droidbg">
-  <img align="center" alt="Binni's Github"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"  height="40" width="40" />
-</a>
-
-</p>
-<br>
-
 <br/><br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## Open Source Contributions
+## 🏗️ Open Source Contributions
 
 <table>
   <tbody>
@@ -186,8 +178,7 @@ npx droidbg
 	</td>
    </tr>
  <tr>
-<!-- 	https://github.com/dart-lang/leak_tracker/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg  -->
-<!-- 	  Riverpod -->
+
   <tr> 
 	<td>
 		<h3> <a href="https://github.com/rrousselGit/riverpod/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > Riverpod 🔗</a></h3>
@@ -238,7 +229,7 @@ npx droidbg
   </tbody>
 </table>
 
-## PR Raised / Merged
+### PR Raised / Merged
 
 | Pull Request                                           | Status                                                                 | Issue Link                                                             | Repo Name                  | Repo Stars |
 | ------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------- | ---------- |
@@ -253,6 +244,25 @@ npx droidbg
 
 ---
 
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🌕 Fullstack Projects
+
+
+<br/>
+<br/>
+
+<h3 align="left"> 📮 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/binni-goel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://droidbg.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Linkedin" height="40" width="40" /></a>  
+<a href="https://github.com/droidbg">
+  <img align="center" alt="Binni's Github"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"  height="40" width="40" />
+</a>
+
+</p>
+<br>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=binni1108&color=ff69b4" alt="Binni's profile views" /> 
 </p>
