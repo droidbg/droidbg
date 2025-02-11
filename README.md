@@ -86,7 +86,7 @@ npx droidbg
 
 
 1. [Open Source Contributions](#open-source-contributions)
-2. [Fullstack Project](#fullstack-projects)
+2. [Featured Project](#-featured-projects-%EF%B8%8F)
 
 3. **Winner**, [Global Gamers Challenge - 3rd Rank](https://devpost.com/software/ocean-cleanup-y5ngb3)
 
@@ -248,7 +248,7 @@ npx droidbg
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## Featured Projects
+## 🌕 Featured Projects 🛠️
 
 <table>
   <tr>
