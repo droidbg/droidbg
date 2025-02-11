@@ -262,8 +262,8 @@ npx droidbg
       </a>
     </td>
     <td>
-      <a href="https://github.com/droidbg/Zonion-Food">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=Zonion-Food&theme=dracula" alt="Zonion Repository" height='100'/>
+      <a href="https://github.com/droidbg/Zonion">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=Zonion&theme=dracula" alt="Zonion Repository" height='100'/>
       </a>
     </td>
   </tr>
