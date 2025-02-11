@@ -1,6 +1,6 @@
 <!-- lets readme -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%"/>
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%"/>
 
 
 <p align="center">
@@ -23,27 +23,87 @@ Ciao!! I am a Software Developer 💻, and a keen learner. I'm always interested
 npx droidbg
 ```
  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">Languages and Tools:</h3>
 
+<div align="center">
+	<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+	<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  </div>
+
+<h4> - Backend
+	</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>
+
+<h4> - Frontend</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,redux,materialui,flutter" />
+  </a>
+</p>
+
+<h4> - Database </h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+<h4> - Cloud Servers </h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,firebase" />
+  </a>
+</p>
+
+<h4> - Tools </h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
     
 ### 🔭 Some things I've worked on ...
 - [Open Source Contributions](#open-source-contributions-to-flutter-projects) 👇🏼
 
-- **Winner**, [Flutter Global Gamers Challenge - 3rd Rank](https://devpost.com/software/ocean-cleanup-y5ngb3)
+- **Winner**, [Global Gamers Challenge - 3rd Rank](https://devpost.com/software/ocean-cleanup-y5ngb3)
 	- Flutter & Flame based Ocean Cleanup App. Focused on environmental awarness.
    	- integrated Google Wallet Integration and Japenese Localization
    	- Multiplatform Support
-<!--
+
 - Winner Hacksquad 2023 
 - Blogs @Medium 
-
+<!--
 - [Bee Trail](https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail), a Game project made on Unity, made using C#.
 
 - [Climator](https://play.google.com/store/apps/details?id=co.binnig.climator), a simple-to-use weather app that provides accurate local weather forecasts, climate for any city, using flutter.
 - [Quiz Bank](https://pub.dev/packages/quiz_bank), a Flutter Package that provides general true false questions [Github Link](https://github.com/droidbg/quiz_bank).
 -->
-### Overall graph <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### Graphical Analysis <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <!--
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=droidbg&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Droidbg's github stats"/>
  -->
@@ -53,7 +113,15 @@ npx droidbg
 <br/>
 
 
- ### 📫 Find me here: ...
+<h3 align="left"> 📫 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jayabharathi-s-7b66a3182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayabharathi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@jayabhajayas2363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jayabharathi" height="30" width="40" /></a>
+</p>
+<br>
+
+
+ ###  Find me here: ...
 <a href="https://www.linkedin.com/in/binni-goel/">
   <img align="left" alt="Binni's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -209,4 +277,6 @@ npx droidbg
 --- 
 
 ![](https://komarev.com/ghpvc/?username=binni1108&color=ff69b4)
-
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=jayabha-jayas&color=ff69b4" alt="jayabharathi" /> 
+</p>
