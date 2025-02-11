@@ -250,15 +250,15 @@ npx droidbg
 ## 🌕 Projects I Have worked on
 
 <div style="display:flex;">
-<div>
+<div style="margin:5">
 		 <a href="https://github.com/droidbg/chatgpt2.0" >
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=chatgpt2.0" alt="chatgpt2.0 Project Repo" />
+		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=chatgpt2.0" alt="chatgpt2.0 Project Repo" height='100' />
 		  </a>
 		</div>
  
-<div>
+<div style="margin:5">
 		 <a href="https://github.com/droidbg/Zonion" >
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=Zonion" alt="Zonion Repository" />
+		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=Zonion" alt="Zonion Repository" height='100'/>
 		  </a>
 		</div> 
  
