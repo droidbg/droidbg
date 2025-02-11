@@ -248,19 +248,19 @@ npx droidbg
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🌕 Projects I Have worked on
-<div style="display:flex">
+
+<div style="display:flex;">
 <div>
 		 <a href="https://github.com/droidbg/chatgpt2.0" >
 		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=chatgpt2.0" alt="chatgpt2.0 Project Repo" />
 		  </a>
 		</div>
  
-</div>
 <div>
 		 <a href="https://github.com/droidbg/Zonion" >
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=Zonion" alt="Zonion Project Repo" />
+		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=Zonion" alt="Zonion Repository" />
 		  </a>
-		</div>
+		</div> 
  
 </div>
 
