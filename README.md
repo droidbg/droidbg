@@ -247,22 +247,23 @@ npx droidbg
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🌕 Projects I Have worked on
+## 🌕 Featured Projects 🛠️ 
 
-<div style="display:flex;">
-<div style="margin:5">
-		 <a href="https://github.com/droidbg/chatgpt2.0" >
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=chatgpt2.0" alt="chatgpt2.0 Project Repo" height='100' />
-		  </a>
-		</div>
- 
-<div style="margin:5">
-		 <a href="https://github.com/droidbg/Zonion-Food" >
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=Zonion-Food" alt="Zonion Repository" height='100'/>
-		  </a>
-		</div> 
- 
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/droidbg/chatgpt2.0">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=chatgpt2.0" alt="chatgpt2.0 Project Repo" height='100' />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/droidbg/Zonion-Food">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=Zonion-Food" alt="Zonion Repository" height='100'/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br/>
 <br/>
