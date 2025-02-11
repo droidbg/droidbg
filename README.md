@@ -261,11 +261,11 @@ npx droidbg
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=chatgpt2.0&theme=dracula" alt="chatgpt2.0 Project Repo" height='100' />
       </a>
     </td>
-    <td>
+<!--     <td>
       <a href="https://github.com/droidbg/Zonion">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=Zonion&theme=dracula" alt="Zonion Repository" height='100'/>
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
