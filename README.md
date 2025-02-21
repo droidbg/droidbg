@@ -271,7 +271,7 @@ npx droidbg
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
- 
+ <!--
 <h3 align="left"> 📮 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/binni-goel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
@@ -283,7 +283,7 @@ npx droidbg
 </p>
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+-->
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=binni1108&color=ff69b4" alt="Binni's profile views" /> 
 </p>
