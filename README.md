@@ -257,8 +257,8 @@ npx droidbg
 <table>
   <tr>
     <td>
-      <a href="https://github.com/droidbg/chatgpt2.0">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=chatgpt2.0&theme=dracula" alt="chatgpt2.0 Project Repo" height='100' />
+      <a href="https://github.com/droidbg/EchoAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=EchoAI&theme=dracula" alt="EchoAI Project Repo" height='100' />
       </a>
     </td>
     <td>
