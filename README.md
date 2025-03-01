@@ -35,7 +35,7 @@ npx droidbg
 1. [Open Source Contributions](#%EF%B8%8F-open-source-contributions)
 2. [Featured Project](#-featured-projects-%EF%B8%8F)
 
-3. **Winner**, [Global Gamers Challenge - 3rd Rank](https://devpost.com/software/ocean-cleanup-y5ngb3)
+3. **Winner**, [Global Gamers Challenge](https://devpost.com/software/ocean-cleanup-y5ngb3)
 
    - Flutter & Flame based Ocean Cleanup App. Focused on environmental awarness.
    - Integrated Google Wallet Integration and Japenese Localization
