@@ -17,7 +17,9 @@ Ciao!! I am a Software Developer 💻, and a keen learner. I'm always interested
 
 
 [![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ > You can reach out to me on binnigoel01@gmail.com .
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 👇 Hit in your console or terminal to connect with me.
@@ -26,6 +28,7 @@ Ciao!! I am a Software Developer 💻, and a keen learner. I'm always interested
 npx droidbg
 ```
 
+ 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🔭 Some things I've worked on ...
@@ -47,7 +50,7 @@ npx droidbg
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### Languages and Tools:
+### #Languages and Tools:
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
