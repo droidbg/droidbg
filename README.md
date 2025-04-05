@@ -32,17 +32,11 @@ npx droidbg
 <img align="right" width="200" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFoZmltdDMzZjNqa3JsZmhwZm55NWQzazJoZTZnaGs0ZHdtYm5uNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif of the various My Octocats I've created"></a>
  
 
-1. [Open Source Contributions](#%EF%B8%8F-open-source-contributions)
-2. [Featured Project](#-featured-projects-%EF%B8%8F)
+1. [Featured Project](#-featured-projects-%EF%B8%8F)
 
-3. **Winner**, [Global Gamers Challenge](https://devpost.com/software/ocean-cleanup-y5ngb3)
+2. **Winner**, [Global Gamers Challenge](https://devpost.com/software/ocean-cleanup-y5ngb3)
 
-   - Flutter & Flame based Ocean Cleanup App. Focused on environmental awarness.
-   - Integrated Google Wallet Integration and Japenese Localization
-   - Multiplatform Support
-
-4. **Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
-5. Blogs [@Medium](https://droidbg.medium.com/)
+3. **Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
 <!--
 
 - [Bee Trail](https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail), a Game project made on Unity, made using C#.
@@ -117,141 +111,8 @@ npx droidbg
 <br/><br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🏗️ Open Source Contributions
 
-<table>
-  <tbody>
-  <tr>
- 	 <th>
-	 	 Project Contributed
-	  </th>
-	  <th width="35%">
-		Repository Links
-	  </th>
-  </tr>
-	  
-<!-- 	  Flutter -->
-  <tr> 
-	<td>
-		<h3> <a href="https://github.com/flutter/flutter/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > Flutter 🔗</a></h3>
-		<p>
-			Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase.
-		</p>
-	</td>
-	<td>
-		<div>
-		  <a href="https://github.com/flutter/flutter/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg">
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter&theme=dracula" alt="Flutter Project Repo" />
-		  </a>
-		</div>
-	</td>
-   </tr>
- <tr>
-
-  <!-- 	  Flutter Website -->
-  <tr> 
-	<td>
-		<h3> <a href="https://github.com/flutter/website/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > Flutter Website 🔗</a></h3>
-		<p>
-			Flutter documentation web site.
-		</p>
-	</td>
-	<td>
-		<div>
-		  <a href="https://github.com/flutter/website/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > 
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=website&theme=dracula" alt="Flutter Website Repo" />
-		  </a>
-		</div>
-	</td>
-   </tr>
- <tr>
-
-  <!-- 	  Leak Tracker -->
-  <tr> 
-	<td>
-		<h3> <a href="https://github.com/dart-lang/leak_tracker/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > Leak Tracker 🔗</a></h3>
-		<p>
-			A framework for memory leak tracking for Dart and Flutter applications.
-		</p>
-	</td>
-	<td>
-		<div>
-		<a href="https://github.com/dart-lang/leak_tracker/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" >
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dart-lang&repo=leak_tracker&theme=dracula" alt="Leak Tracker" />
-		  </a>
-		</div>
-	</td>
-   </tr>
- <tr>
-
-  <tr> 
-	<td>
-		<h3> <a href="https://github.com/rrousselGit/riverpod/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > Riverpod 🔗</a></h3>
-		<p>
-			A state-management library that catches programming errors at compile time rather than at runtime, removes nesting for listening/combining objects, ensures that the code is testable
-		</p>
-	</td>
-	<td>
-		<div>
-		 <a href="https://github.com/rrousselGit/riverpod/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > 
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rrousselGit&repo=riverpod&theme=dracula" alt="Riverpod Project Repo" />
-		  </a>
-		</div>
-	</td>
-   </tr>
- <tr>
-<!-- 	 CLI -->
-	 	<td>
-		<h3> <a href="https://github.com/VeryGoodOpenSource/very_good_cli/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > VERY GOOD CLI 🔗</a></h3>
-		<p>
-			 Very Good Command-Line Interface for Dart created by Very Good Ventures 🦄
-		</p>
-	</td>
-	<td>
-		<div>
-		 <a href="https://github.com/VeryGoodOpenSource/very_good_cli/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" >
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VeryGoodOpenSource&repo=very_good_cli" alt="very_good_cli Project Repo" />
-		  </a>
-		</div>
-	</td>
-   </tr>
-<!-- 	  DiaryVault -->
- <tr>
-	<td>
-		<h3> <a href="https://github.com/SankethBK/diaryvault/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" > AppVault - Personal Diary Application 🔗</a></h3>
-		<p>
-			A FOSS, offline first personal diary application written in Flutter 
-		</p>
-	</td>
-	<td>
-		<div>
-		 <a href="https://github.com/SankethBK/diaryvault/pulls?q=is%3Apr+is%3Aclosed+author%3Adroidbg" >
-		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SankethBK&repo=diaryvault&theme=dracula" alt="Diaryvault Project Repo" />
-		  </a>
-		</div>
-	</td>
-   </tr>
-  </tbody>
-</table>
-
-#### PR Raised / Merged
-
-| Pull Request                                           | Status                                                                 | Issue Link                                                             | Repo Name                  | Repo Stars |
-| ------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------- | ---------- |
-| Fix. Broken links on .family page website              | [Merged](https://github.com/rrousselGit/riverpod/pull/2956)            | [#2951](https://github.com/rrousselGit/riverpod/issues/2951)           | riverpod                   | 𖤐 5.1k     |
-| Fix. doc reference finishPurchase to completePurchase. | [Merged](https://github.com/flutter/packages/pull/5081)                | [#135759](https://github.com/flutter/flutter/issues/135759)            | flutter / flutter packages | 𖤐 3.5k     |
-| Add. hook for ExpansionTileController                  | [Merged](https://github.com/rrousselGit/flutter_hooks/pull/386)        | [#375](https://github.com/rrousselGit/flutter_hooks/issues/375)        | flutter_hooks              | 𖤐 2.9k     |
-| Refactor. make all mock class to private               | [Merged](https://github.com/VeryGoodOpenSource/very_good_cli/pull/838) | [#827](https://github.com/VeryGoodOpenSource/very_good_cli/issues/827) | very_good_cli              | 𖤐 2k       |
-| Fix. Fingerprint Login Glitch                          | [Merged](https://github.com/SankethBK/diaryvault/issues/35)            | [#16](https://github.com/SankethBK/diaryvault/issues/16)               | diaryvault                 | 𖤐 45       |
-| Fix. SAVE note was not working after delete            | [Merged](https://github.com/SankethBK/diaryvault/issues/47)            | [#38](https://github.com/SankethBK/diaryvault/issues/38)               | diaryvault                 | 𖤐 45       |
-| Fix. Testcases failing                                 | [Merged](https://github.com/SankethBK/diaryvault/issues/50)            | [#46](https://github.com/SankethBK/diaryvault/issues/46)               | diaryvault                 | 𖤐 45       |
-| Add. Auto save for every "x" seconds                   | [Merged](https://github.com/SankethBK/diaryvault/issues/44)            | [#29](https://github.com/SankethBK/diaryvault/issues/29)               | diaryvault                 | 𖤐 45       |
-
----
-
-<br/>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+ 
 ## 🎸 Featured Projects 🛠️
 
 <table>
