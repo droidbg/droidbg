@@ -13,8 +13,14 @@
 
 
  
-### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/)  🛸 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Ciao!! I am a Software Developer 💻!!!
+### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/)  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+ 
+ 
+  <strong>🛸Ciao!! I am a Software Developer  </strong>
+    
+ 
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -33,25 +39,27 @@ Ciao!! I am a Software Developer 💻!!!
 npx droidbg
 ```
 
+[![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
+
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🔭 Some things I've worked on ...
-<img align="right" width="200" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFoZmltdDMzZjNqa3JsZmhwZm55NWQzazJoZTZnaGs0ZHdtYm5uNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif of the various My Octocats I've created"></a>
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75" align="middle">&nbsp; # I've worked on ...
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c"  align="left" width="200">&nbsp;
+
+   <img align="right" width="300" src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871">
+
+
+
+
  
 
-1. [Featured Project](#-featured-projects-%EF%B8%8F)
+1. [Featured Projects](#-featured-projects-%EF%B8%8F)
 
 2. **Winner**, [Global Gamers Challenge](https://devpost.com/software/ocean-cleanup-y5ngb3)
 
 3. **Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
-<!--
 
-- [Bee Trail](https://play.google.com/store/apps/details?id=com.POLLINATORS.BeeTrail), a Game project made on Unity, made using C#.
-
-- [Climator](https://play.google.com/store/apps/details?id=co.binnig.climator), a simple-to-use weather app that provides accurate local weather forecasts, climate for any city, using flutter.
-- [Quiz Bank](https://pub.dev/packages/quiz_bank), a Flutter Package that provides general true false questions [Github Link](https://github.com/droidbg/quiz_bank).
--->
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -98,6 +106,7 @@ npx droidbg
 ---
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Tech Stack  -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -123,7 +132,8 @@ npx droidbg
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### Graphical Analysis <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+ <!--- -- Github Analytics -------------------------------------------------------------------------------------------------------------------------------------- --> 
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="80" />&nbsp; <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=droidbg&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -132,21 +142,6 @@ npx droidbg
 <br/><br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-  
- <!--
-<h3 align="left"> 📮 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/binni-goel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://droidbg.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Linkedin" height="40" width="40" /></a>  
-<a href="https://github.com/droidbg">
-  <img align="center" alt="Binni's Github"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"  height="40" width="40" />
-</a>
-
-</p>
-<br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
--->
 
 
 ## Connect with Me 
@@ -167,7 +162,6 @@ npx droidbg
 
 - You can reach out to me on binnigoel01@gmail.com .
 
- [![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=binni1108&color=ff69b4" alt="Binni's profile views" /> 
