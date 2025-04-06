@@ -36,7 +36,7 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx droidbg
+npx binni-goel
 ```
 
 [![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
