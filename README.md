@@ -33,13 +33,15 @@
 
 
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
 npx binni-goel
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 [![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
 
@@ -71,7 +73,7 @@ npx binni-goel
 	<tbody width="100%">
 		<tr>
 			<th>React Carousel NPM Package</th>	
-			<th>Zonion</th>	
+			<th>FoodPeek</th>	
 			<th>EchoAI</th>
 		</tr>
 		<tr>
@@ -79,10 +81,10 @@ npx binni-goel
 				<img width="300" src="https://github.com/user-attachments/assets/89adc624-4817-46c8-ae86-4c91a04e5b79" alt="React Carousel NPM Package"/>
 			</td>
 			<td>
-				 <img width="300" alt="Zonion" src="https://github.com/user-attachments/assets/531278bc-4c69-443c-84fc-be9972721068" />
+				 <img width="400" height="200" alt="FoodPeek" src="https://github.com/droidbg/FoodPeek/blob/main/.github/example.png" />
 			</td>
 			<td>
-          <img width="300"alt="Echo AI"src="https://github.com/user-attachments/assets/09cc7aa7-14e2-4541-8799-72072dbc7a2b" />
+          			<img width="300"alt="Echo AI"src="https://github.com/user-attachments/assets/09cc7aa7-14e2-4541-8799-72072dbc7a2b" />
 			</td>
 		</tr>
 		<tr>
@@ -93,7 +95,7 @@ npx binni-goel
 			</td>
 			<td>
 				<a href="https://github.com/droidbg/Zonion">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=Zonion&theme=dracula" alt="Zonion" height='100'/>
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=FoodPeek&theme=dracula" alt="FoodPeek" height='100'/>
 				</a>
 			</td>
 			<td>
