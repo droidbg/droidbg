@@ -18,10 +18,6 @@
  
   <strong>🛸Ciao!! I am a Software Developer  </strong>
 
-  # [Portfolio](https://binnigoel.vercel.app/) 
-    Check out my portfolio website [Here](https://binnigoel.vercel.app/) . It is built using React.js, Three.js and 3D models. 
- 
-
 
 
 <div align="center">
