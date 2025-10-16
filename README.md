@@ -6,7 +6,7 @@
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFCAFF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B%F0%9F%8F%BC+Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Problem+Solver;Open+Source+Contributor;Tech+Enthusiast;Let's+build+amazing+things+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFCAFF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B%F0%9F%8F%BC+Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Problem+Solver;Open+Source+Contributor;Tech+Enthusiast;Let's+build+amazing+things+together!+%F0%9F%9A%80" alt="Typing SVG" />
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 &nbsp; 
 
