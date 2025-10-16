@@ -1,16 +1,18 @@
 <!-- Let's Readme -->
 
-
-
 <div align="center">
-
-  
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img alt="Binni's Welcome Message" src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Binni"> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Binni%20Goel&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFCAFF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B%F0%9F%8F%BC+Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Problem+Solver;Open+Source+Contributor;Tech+Enthusiast;Let's+build+amazing+things+together!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+&nbsp; 
 
+</div>
 
+ 
 
  
 ### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/)  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
@@ -54,11 +56,11 @@ npx binni-goel
 
  
 
-1. [Featured Projects](#-featured-projects-%EF%B8%8F)
+1. 🎸 [Featured Projects](#-featured-projects-%EF%B8%8F)
 
-2. **Winner**, [Global Gamers Challenge](https://devpost.com/software/ocean-cleanup-y5ngb3)
+2. **🥇 Winner**, [Global Gamers Challenge](https://devpost.com/software/ocean-cleanup-y5ngb3)
 
-3. **Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
+3. **🏆 Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
 
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -80,7 +82,7 @@ npx binni-goel
 				 <img width="400" height="200" alt="FoodPeek" src="https://github.com/droidbg/FoodPeek/blob/main/.github/example.png" />
 			</td>
 			<td>
-          			<img width="300"alt="Echo AI"src="https://github.com/user-attachments/assets/09cc7aa7-14e2-4541-8799-72072dbc7a2b" />
+          				<img width="300" alt="Echo AI" src="https://github.com/droidbg/EchoAI/blob/main/docs/demo-desktop.gif" />
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +113,7 @@ npx binni-goel
 <!--- -- Tech Stack  -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-### Somethings I am familiar with.. [🔝](#-about-binni-goel--)
+## 🛠️ Tech Stack & Skills [🔝](#-about-binni-goel--)
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
@@ -167,5 +169,8 @@ npx binni-goel
  <img src="https://komarev.com/ghpvc/?username=binni1108&color=ff69b4" alt="Binni's profile views" /> 
 </p>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
+</div>
+  
 
