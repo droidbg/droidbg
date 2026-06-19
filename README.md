@@ -79,7 +79,7 @@ npx binni-goel
 				<img width="300" src="https://raw.githubusercontent.com/droidbg/react-carousel/main/.github/media/slicer.gif" alt="React Carousel"/>
 			</td>
 			<td>
-				 <img width="300" height="300" alt="FoodPeek" src="https://github.com/droidbg/FoodPeek/blob/main/.github/example.png" />
+				 <img width="300" alt="FoodPeek" src="https://github.com/droidbg/FoodPeek/blob/main/.github/example.png" />
 			</td>
 			<td>
           				<img width="300" alt="Echo AI" src="https://github.com/droidbg/EchoAI/blob/main/docs/demo-desktop.gif" />
