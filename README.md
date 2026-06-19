@@ -76,10 +76,10 @@ npx binni-goel
 		</tr>
 		<tr>
 			<td>
-				<img width="300" src="https://github.com/user-attachments/assets/89adc624-4817-46c8-ae86-4c91a04e5b79" alt="React Carousel NPM Package"/>
+				<img width="300" src="https://raw.githubusercontent.com/droidbg/react-carousel/main/.github/media/slicer.gif" alt="React Carousel"/>
 			</td>
 			<td>
-				 <img width="400" height="200" alt="FoodPeek" src="https://github.com/droidbg/FoodPeek/blob/main/.github/example.png" />
+				 <img width="300" height="200" alt="FoodPeek" src="https://github.com/droidbg/FoodPeek/blob/main/.github/example.png" />
 			</td>
 			<td>
           				<img width="300" alt="Echo AI" src="https://github.com/droidbg/EchoAI/blob/main/docs/demo-desktop.gif" />
@@ -87,7 +87,7 @@ npx binni-goel
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/droidbg/react-carousel">
+				<a href="https://react-carousel-latest.vercel.app/">
 					<img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=react-carousel&theme=dracula" alt="React Carousel Npm Package" height='100'/>
 				</a>
 			</td>
