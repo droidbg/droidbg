@@ -71,7 +71,7 @@ npx binni-goel
           <tr>
               <th>React Carousel</th>
               <td>
-                  <img width="550" height="360" src="https://raw.githubusercontent.com/droidbg/react-carousel/main/.github/media/slicer.gif" alt="React
+                  <img width="450" height="260" src="https://raw.githubusercontent.com/droidbg/react-carousel/main/.github/media/slicer.gif" alt="React
   Carousel"/>
               </td>
               <td>
@@ -84,7 +84,7 @@ npx binni-goel
           <tr>
               <th>FoodPeek</th>
               <td>
-                  <img width="550" height="360" alt="FoodPeek" src="https://raw.githubusercontent.com/droidbg/FoodPeek/main/.github/example.png" />
+                  <img width="450" height="260" alt="FoodPeek" src="https://raw.githubusercontent.com/droidbg/FoodPeek/main/.github/example.png" />
               </td>
               <td>
                   <a href="https://github.com/droidbg/FoodPeek">
@@ -96,7 +96,7 @@ npx binni-goel
           <tr>
               <th>EchoAI</th>
               <td>
-                  <img width="550" height="360" alt="Echo AI" src="https://raw.githubusercontent.com/droidbg/EchoAI/main/docs/demo-desktop.gif" />
+                  <img width="450" height="260" alt="Echo AI" src="https://raw.githubusercontent.com/droidbg/EchoAI/main/docs/demo-desktop.gif" />
               </td>
               <td>
                   <a href="https://github.com/droidbg/EchoAI">
