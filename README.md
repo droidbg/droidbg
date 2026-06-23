@@ -65,46 +65,48 @@ npx binni-goel
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-##  🎸 Featured Projects 🛠️
-
+  ##  🎸 Featured Projects 🛠️ 
 <table>
-	<tbody width="100%">
-		<tr>
-			<th>React Carousel</th>	
-			<th>FoodPeek</th>	
-			<th>EchoAI</th>
-		</tr>
-		<tr>
-			<td>
-				<img width="300" src="https://raw.githubusercontent.com/droidbg/react-carousel/main/.github/media/slicer.gif" alt="React Carousel"/>
-			</td>
-			<td>
-				 <img width="300" alt="FoodPeek" src="https://github.com/droidbg/FoodPeek/blob/main/.github/example.png" />
-			</td>
-			<td>
-          				<img width="300" alt="Echo AI" src="https://github.com/droidbg/EchoAI/blob/main/docs/demo-desktop.gif" />
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://react-carousel-latest.vercel.app/">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=react-carousel&theme=dracula" alt="React Carousel" height='100'/>
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/droidbg/Zonion">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=FoodPeek&theme=dracula" alt="FoodPeek" height='100'/>
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/droidbg/EchoAI">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=EchoAI&theme=dracula" alt="Echo AI" height='100'/>
-				</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
+      <tbody>
+          <tr>
+              <th>React Carousel</th>
+              <td>
+                  <img width="550" height="360" src="https://raw.githubusercontent.com/droidbg/react-carousel/main/.github/media/slicer.gif" alt="React
+  Carousel"/>
+              </td>
+              <td>
+                  <a href="https://react-carousel-latest.vercel.app/">
+                      <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=react-carousel&theme=dracula"
+  alt="React Carousel"/>
+                  </a>
+              </td>
+          </tr>
+          <tr>
+              <th>FoodPeek</th>
+              <td>
+                  <img width="550" height="360" alt="FoodPeek" src="https://raw.githubusercontent.com/droidbg/FoodPeek/main/.github/example.png" />
+              </td>
+              <td>
+                  <a href="https://github.com/droidbg/FoodPeek">
+                      <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=FoodPeek&theme=dracula"
+  alt="FoodPeek"/>
+                  </a>
+              </td>
+          </tr>
+          <tr>
+              <th>EchoAI</th>
+              <td>
+                  <img width="550" height="360" alt="Echo AI" src="https://raw.githubusercontent.com/droidbg/EchoAI/main/docs/demo-desktop.gif" />
+              </td>
+              <td>
+                  <a href="https://github.com/droidbg/EchoAI">
+                      <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=EchoAI&theme=dracula" alt="Echo
+  AI"/>
+                  </a>
+              </td>
+          </tr>
+      </tbody>
+  </table>
 ---
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
