@@ -1,37 +1,71 @@
-<!-- Let's Readme -->
+<!--
+Let's Readme
+GitHub Profile README
+Owner: Binni Goel
+-->
+<!-- ==================== ANIMATED HEADER ==================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Binni%20Goel&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
-</div>
 
-<div align="center">
-	<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFCAFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B%F0%9F%8F%BC+Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Problem+Solver;Open+Source+Contributor;Tech+Enthusiast;Let's+build+amazing+things+together!+%F0%9F%9A%80" alt="Typing SVG" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Binni%20Goel&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Engineering%20%7C%20AI/LLM&descAlignY=55&descSize=16"
+  width="100%"
+  alt="Binni Goel — Software Developer"
+/>
+
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-&nbsp; 
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFCAFF&center=true&vCenter=true&width=700&lines=Building+reliable+software+%F0%9F%9A%80;Designing+APIs+and+backend+systems;Exploring+AI+agents+and+LLMs+%F0%9F%A4%96;Always+learning.+Always+building."
+  alt="Animated introduction"
+/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/binni-goel/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+&nbsp;
+<a href="https://github.com/binni1108">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/>
+
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+**Turning ideas into software, one commit at a time.**
 
 </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
- 
+<!-- ==================== ABOUT ME ==================== -->
 
- 
-### # About [Binni Goel](https://www.linkedin.com/in/binni-goel/)  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
- 
- 
-  <strong>🛸Ciao!! I am a Software Developer  </strong>
+## About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+<img
+  align="right"
+  width="220"
+  src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"
+  alt="Fire"
+/>
 
+Hey there! 👋 I'm **Binni Goel**, a Senior Software Developer.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
+I enjoy building software that solves real problems, from intuitive user
+interfaces to backend services and event-driven systems.
 
+My work spans full-stack development, API design, data processing, and
+integrating services into reliable applications. I'm also exploring how AI
+agents and LLMs can make software more useful.
 
+- 💼 **Role:** Senior Software Developer
+- 🧑‍💻 **Focus:** Full-stack development and backend engineering
+- ⚡ **Core technologies:** TypeScript, React, NestJS, Kafka, PostgreSQL
+- 🤖 **Exploring:** AI agents, MCP, and LLM-powered applications
 
- 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -39,140 +73,127 @@
 npx binni-goel
 ```
 
+<!-- ==================== DECORATIVE DIVIDER ==================== -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## Open Source Contribution Badges <img align="left" width="70" src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871">
 
 [![@droidbg's Holopin board](https://holopin.me/droidbg)](https://holopin.io/@droidbg)
 
- 
+<!-- ==================== DECORATIVE DIVIDER ==================== -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75" align="middle">&nbsp; # I've worked on ...
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c"  align="left" width="200">&nbsp;
+<!-- Tech Stack   ----------------------------------------------- -->
 
-   <img align="right" width="300" src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871">
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="45" align="middle">&nbsp; Tech Stack & Skills [🔝](#-about-binni-goel--)
 
+I work across the stack, with a focus on TypeScript-based applications, backend
+services, and data-driven systems.
 
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c"  align="left" width="35"> Languages
 
+<div align="left">
 
+<img src="https://skillicons.dev/icons?i=ts,js,cpp" alt="TypeScript, JavaScript, and C++" />
+
+</div>
+
+### 🎨 Frontend
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=react,html,css" alt="React, HTML, and CSS" />
+
+</div>
+
+### ⚙️ Backend & APIs
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" alt="Node.js, NestJS, and Express" />
+
+</div>
+
+### 🗄️ Databases & Messaging
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,kafka" alt="PostgreSQL, Prisma, and Kafka" />
+
+</div>
+
+### ☁️ Cloud, DevOps & Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins" alt="AWS, Docker, Git, GitHub, and Jenkins" />
+
+</div>
+
+### 🤖 AI & Emerging Technologies
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/AI_Agents-Exploring-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI agents"/>
+<img src="https://img.shields.io/badge/LLMs-Exploring-2563EB?style=for-the-badge" alt="Large language models"/>
+<img src="https://img.shields.io/badge/MCP-Exploring-059669?style=for-the-badge" alt="Model Context Protocol"/>
+
+</div>
  
+<!-- ==================== DECORATIVE DIVIDER ==================== -->
 
-1. 🎸 [Featured Projects](#-featured-projects-%EF%B8%8F)
-
-2. **🥇 Winner**, [Global Gamers Challenge](https://devpost.com/software/ocean-cleanup-y5ngb3)
-
-3. **🏆 Winner**, [Hacksquad 2023](https://www.hacksquad.dev/team/just-devs-NxLFz/)
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="100%"
+    height="8"
+    alt=""
+  />
+</div>
+<details>
+<summary><strong>🔎 More about my engineering interests</strong></summary>
 
 <br/>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-  ##  🎸 Featured Projects 🛠️ 
-<table>
-      <tbody>
-          <tr>
-              <th>React Carousel</th>
-              <td>
-                  <img width="450" height="260" src="https://raw.githubusercontent.com/droidbg/react-carousel/main/.github/media/slicer.gif" alt="React
-  Carousel"/>
-              </td>
-              <td>
-                  <a href="https://react-carousel-latest.vercel.app/">
-                      <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=react-carousel&theme=dracula"
-  alt="React Carousel"/>
-                  </a>
-              </td>
-          </tr>
-          <tr>
-              <th>FoodPeek</th>
-              <td>
-                  <img width="450" height="260" alt="FoodPeek" src="https://raw.githubusercontent.com/droidbg/FoodPeek/main/.github/example.png" />
-              </td>
-              <td>
-                  <a href="https://github.com/droidbg/FoodPeek">
-                      <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=FoodPeek&theme=dracula"
-  alt="FoodPeek"/>
-                  </a>
-              </td>
-          </tr>
-          <tr>
-              <th>EchoAI</th>
-              <td>
-                  <img width="450" height="260" alt="Echo AI" src="https://raw.githubusercontent.com/droidbg/EchoAI/main/docs/demo-desktop.gif" />
-              </td>
-              <td>
-                  <a href="https://github.com/droidbg/EchoAI">
-                      <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=droidbg&repo=EchoAI&theme=dracula" alt="Echo
-  AI"/>
-                  </a>
-              </td>
-          </tr>
-      </tbody>
-  </table>
----
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+- Designing maintainable REST APIs and backend services
+- Building full-stack applications with React and TypeScript
+- Processing asynchronous workloads using messaging systems
+- Integrating third-party services and external APIs
+- Exploring AI-powered automation and agent-based workflows
+- Writing clean, testable, and maintainable code
 
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Tech Stack  -------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## 🛠️ Tech Stack & Skills [🔝](#-about-binni-goel--)
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-  
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-</div>
-<br><br>  
+</details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
- <!--- -- Github Analytics -------------------------------------------------------------------------------------------------------------------------------------- --> 
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="80" />&nbsp; <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+
+_Some insights into my open-source activity and repositories._
+
+<br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=droidbg&layout=compact&hide_border=true&theme=tokyonight"
+  height="170"
+  alt="Most-used languages across repositories"
+/>
+
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=droidbg&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-<br/><br/>
+<br/>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-
-## Connect with Me 
-
-<div>
- <!--- -- Mail -------------------------------------------------------------------------------------------------------------------------------------- --> 
- <a href="https://www.linkedin.com/in/binni-goel/" target="blank">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" /></a>  
- 
-<!--- -- Linkedin -------------------------------------------------------------------------------------------------------------------------------------- -->
-<a href="https://www.linkedin.com/in/binni-goel/" target="blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/></a>  
-
-</div>
-
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-- You can reach out to me on binnigoel01@gmail.com .
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=binni1108&color=ff69b4" alt="Binni's profile views" /> 
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
 </div>
-  
-
